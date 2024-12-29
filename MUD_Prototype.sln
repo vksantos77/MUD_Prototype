@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUD_Prototype", "MUD_Prototype\MUD_Prototype.csproj", "{8F852A54-A0C8-4FD6-BA7A-A94A23FEF57B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F852A54-A0C8-4FD6-BA7A-A94A23FEF57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F852A54-A0C8-4FD6-BA7A-A94A23FEF57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F852A54-A0C8-4FD6-BA7A-A94A23FEF57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F852A54-A0C8-4FD6-BA7A-A94A23FEF57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94372472-CA76-41E4-9AE4-CA797615D928}
+	EndGlobalSection
+EndGlobal
